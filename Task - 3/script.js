@@ -6,4 +6,4 @@ document.write('Celcius is :' + farcalc)
 
 let ctemp = Number(prompt('Enter celcius: '))
 let celciusCalc = ctemp * 9/5 + 32
-document.write('<br> Farenheit is :' + celciusCalc)
+document.write('<br> Fahrenheit is :' + celciusCalc)
